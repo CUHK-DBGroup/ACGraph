@@ -1,0 +1,12 @@
+[submodule "third_party/liburing"]
+	path = third_party/liburing
+	url = git@github.com:axboe/liburing.git
+[submodule "third_party/PIGO"]
+	path = third_party/PIGO
+	url = git@github.com:GT-TDAlab/PIGO.git
+[submodule "third_party/parallel-hashmap"]
+	path = third_party/parallel-hashmap
+	url = git@github.com:greg7mdp/parallel-hashmap.git
+[submodule "third_party/concurrentqueue"]
+	path = third_party/concurrentqueue
+	url = git@github.com:cameron314/concurrentqueue.git
